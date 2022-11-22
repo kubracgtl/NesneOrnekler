@@ -35,5 +35,10 @@ namespace SS_50
                 MessageBox.Show("Hava SICAK", "Hava Durumu", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{78EB6728-A5E5-4EDD-ACE2-16C2BE22652E}</ProjectGuid>
+    <ProjectGuid>{6AAA2F12-6150-44DE-89DC-698A5FB87234}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>U2_UYG25</RootNamespace>
-    <AssemblyName>U2_UYG25</AssemblyName>
+    <RootNamespace>U2_SS66</RootNamespace>
+    <AssemblyName>U2_SS66</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

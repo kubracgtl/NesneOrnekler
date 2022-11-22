@@ -1,0 +1,10 @@
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_SS66\bin\Debug\U2_SS66.exe.config
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_SS66\bin\Debug\U2_SS66.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_SS66\bin\Debug\U2_SS66.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_SS66\obj\Debug\U2_SS66.Form1.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_SS66\obj\Debug\U2_SS66.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_SS66\obj\Debug\U2_SS66.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_SS66\obj\Debug\U2_SS66.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_SS66\obj\Debug\U2_SS66.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_SS66\obj\Debug\U2_SS66.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_SS66\obj\Debug\U2_SS66.csproj.AssemblyReference.cache
