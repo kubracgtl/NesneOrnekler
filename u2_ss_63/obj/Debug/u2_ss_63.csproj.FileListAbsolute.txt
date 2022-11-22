@@ -1,0 +1,10 @@
+C:\Users\Ogrenci\Desktop\NesneOrnekler\u2_ss_63\obj\Debug\u2_ss_63.csproj.AssemblyReference.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\u2_ss_63\obj\Debug\u2_ss_63.Form1.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\u2_ss_63\obj\Debug\u2_ss_63.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\u2_ss_63\obj\Debug\u2_ss_63.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\u2_ss_63\obj\Debug\u2_ss_63.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\u2_ss_63\bin\Debug\u2_ss_63.exe.config
+C:\Users\Ogrenci\Desktop\NesneOrnekler\u2_ss_63\bin\Debug\u2_ss_63.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\u2_ss_63\bin\Debug\u2_ss_63.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\u2_ss_63\obj\Debug\u2_ss_63.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\u2_ss_63\obj\Debug\u2_ss_63.pdb
