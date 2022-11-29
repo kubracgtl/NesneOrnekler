@@ -16,5 +16,20 @@ namespace U2_Uyg27
         {
             InitializeComponent();
         }
-    }
-}
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+      
+                    
+        }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            int say = 1;
+            while (say <= 10) ;
+            {
+                listBox1.Items.Add(say);
+                say++;
+            }
+       }
+
