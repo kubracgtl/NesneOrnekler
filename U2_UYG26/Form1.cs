@@ -33,8 +33,7 @@ namespace U2_UYG26
             {
                 if (listBox1.Items[i].ToString() == "hopörler" ||
                    listBox1.Items[i].ToString() == "mikrofon" ||
-                    listBox1.Items[i].ToString() == "monitör" ||
-                    )
+                    listBox1.Items[i].ToString() == "monitör")
                 { listBox2.Items.Add(listBox2.Items[i]);
                 }
                 else

@@ -16,5 +16,17 @@ namespace U2_SS66_1
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int toplam = 0;
+            int say = 1;
+            while (say <= 20)
+            {
+                toplam = toplam + say;
+                listBox1.Items.Add(toplam);
+                say++;
+            }
+        }
     }
 }
