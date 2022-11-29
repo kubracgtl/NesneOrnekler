@@ -1,0 +1,10 @@
+C:\Users\Ogrenci\Desktop\NesneOrnekler\odev2\bin\Debug\odev2.exe.config
+C:\Users\Ogrenci\Desktop\NesneOrnekler\odev2\bin\Debug\odev2.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\odev2\bin\Debug\odev2.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\odev2\obj\Debug\odev2.csproj.AssemblyReference.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\odev2\obj\Debug\odev2.Form1.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\odev2\obj\Debug\odev2.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\odev2\obj\Debug\odev2.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\odev2\obj\Debug\odev2.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\odev2\obj\Debug\odev2.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\odev2\obj\Debug\odev2.pdb
