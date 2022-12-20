@@ -27,25 +27,24 @@ namespace U2_GOLDSORU10
 
             Random rnd = new Random();
             int kisisayisi = listBox1.Items.Count;
-            for (int i = 1; i < kisisayisi; i++)
+            for (int i = 1; i <= kisisayisi; i++)
             {
-                int tutulan = rnd.Next(0, kisisayisi);
+                int tutulan = rnd.Next(0, listBox1.Items.Count);
                 if (i % 4 == 0)
                 {
                     listBox2.Items.Add(listBox1.Items[tutulan]);
-                    listBox1.Items.RemoveAt(tutulan);
                 }
                 else if (i % 4 == 1)
                 {
                     listBox3.Items.Add(listBox1.Items[tutulan]);
                 }
-                else if (i %== 2)
+                else if (i % 4 == 2)
                 {
                     listBox4.Items.Add(listBox1.Items[tutulan]);
                 }
                 else
                 {
-                    listBox4.Items.Add(listBox1.Items[tutulan]);
+                    listBox5.Items.Add(listBox1.Items[tutulan]);
 
                 }
             }
