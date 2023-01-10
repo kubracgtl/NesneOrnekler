@@ -1,0 +1,5 @@
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U3_SAYFA77\obj\Debug\netcoreapp3.1\U3_SAYFA77.csproj.AssemblyReference.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U3_SAYFA77\obj\Debug\netcoreapp3.1\U3_SAYFA77.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U3_SAYFA77\obj\Debug\netcoreapp3.1\U3_SAYFA77.AssemblyInfoInputs.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U3_SAYFA77\obj\Debug\netcoreapp3.1\U3_SAYFA77.AssemblyInfo.cs
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U3_SAYFA77\obj\Debug\netcoreapp3.1\U3_SAYFA77.csproj.CoreCompileInputs.cache

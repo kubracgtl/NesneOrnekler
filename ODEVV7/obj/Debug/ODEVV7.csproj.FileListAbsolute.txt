@@ -1,7 +1,6 @@
 C:\Users\Ogrenci\Desktop\NesneOrnekler\ODEVV7\bin\Debug\ODEVV7.exe.config
 C:\Users\Ogrenci\Desktop\NesneOrnekler\ODEVV7\bin\Debug\ODEVV7.exe
 C:\Users\Ogrenci\Desktop\NesneOrnekler\ODEVV7\bin\Debug\ODEVV7.pdb
-C:\Users\Ogrenci\Desktop\NesneOrnekler\ODEVV7\obj\Debug\ODEVV7.csproj.AssemblyReference.cache
 C:\Users\Ogrenci\Desktop\NesneOrnekler\ODEVV7\obj\Debug\ODEVV7.csproj.CoreCompileInputs.cache
 C:\Users\Ogrenci\Desktop\NesneOrnekler\ODEVV7\obj\Debug\ODEVV7.exe
 C:\Users\Ogrenci\Desktop\NesneOrnekler\ODEVV7\obj\Debug\ODEVV7.pdb
