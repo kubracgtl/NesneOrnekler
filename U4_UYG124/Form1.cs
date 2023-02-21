@@ -40,9 +40,14 @@ namespace U4_UYG124
         {
             try
             {
-                for (int i = 0; i < isimler.Length; i++)
+                // for (int i = 0; i < isimler.Length; i++)
+                // {
+                //   listBox1.Items.Add(isimler[i]);
+                //}
+                foreach (var isim in isimler)
                 {
-                    listBox1.Items.Add(isimler[i]);
+                    Console.WriteLine(isim);
+                    Console.ReadLine();
                 }
             }
             catch (Exception)
