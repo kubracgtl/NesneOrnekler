@@ -54,6 +54,42 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="U4_UYG3\Form1.cs" />
+    <Compile Include="U4_UYG3\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="U4_UYG3\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" />
+    <Compile Include="U4_UYG3\Program.cs" />
+    <Compile Include="U4_UYG3\Properties\AssemblyInfo.cs" />
+    <Compile Include="U4_UYG3\Properties\Resources.Designer.cs" />
+    <Compile Include="U4_UYG3\Properties\Settings.Designer.cs" />
+    <Compile Include="U4_UYG3\U4_UYG5\Form1.cs" />
+    <Compile Include="U4_UYG3\U4_UYG5\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="U4_UYG3\U4_UYG5\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" />
+    <Compile Include="U4_UYG3\U4_UYG5\Program.cs" />
+    <Compile Include="U4_UYG3\U4_UYG5\Properties\AssemblyInfo.cs" />
+    <Compile Include="U4_UYG3\U4_UYG5\Properties\Resources.Designer.cs" />
+    <Compile Include="U4_UYG3\U4_UYG5\Properties\Settings.Designer.cs" />
+    <Compile Include="U4_UYG3\U4_UYG6\Form1.cs" />
+    <Compile Include="U4_UYG3\U4_UYG6\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="U4_UYG3\U4_UYG6\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" />
+    <Compile Include="U4_UYG3\U4_UYG6\Program.cs" />
+    <Compile Include="U4_UYG3\U4_UYG6\Properties\AssemblyInfo.cs" />
+    <Compile Include="U4_UYG3\U4_UYG6\Properties\Resources.Designer.cs" />
+    <Compile Include="U4_UYG3\U4_UYG6\Properties\Settings.Designer.cs" />
+    <Compile Include="U4_UYG4\Form1.cs" />
+    <Compile Include="U4_UYG4\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="U4_UYG4\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" />
+    <Compile Include="U4_UYG4\Program.cs" />
+    <Compile Include="U4_UYG4\Properties\AssemblyInfo.cs" />
+    <Compile Include="U4_UYG4\Properties\Resources.Designer.cs" />
+    <Compile Include="U4_UYG4\Properties\Settings.Designer.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -63,6 +99,22 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="U4_UYG3\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="U4_UYG3\Properties\Resources.resx" />
+    <EmbeddedResource Include="U4_UYG3\U4_UYG5\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="U4_UYG3\U4_UYG5\Properties\Resources.resx" />
+    <EmbeddedResource Include="U4_UYG3\U4_UYG6\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="U4_UYG3\U4_UYG6\Properties\Resources.resx" />
+    <EmbeddedResource Include="U4_UYG4\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="U4_UYG4\Properties\Resources.resx" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -72,6 +124,23 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="U4_UYG3\App.config" />
+    <None Include="U4_UYG3\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="U4_UYG3\Properties\Settings.settings" />
+    <None Include="U4_UYG3\U4_UYG3.csproj" />
+    <None Include="U4_UYG3\U4_UYG5\App.config" />
+    <None Include="U4_UYG3\U4_UYG5\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="U4_UYG3\U4_UYG5\Properties\Settings.settings" />
+    <None Include="U4_UYG3\U4_UYG5\U4_UYG5.csproj" />
+    <None Include="U4_UYG3\U4_UYG6\App.config" />
+    <None Include="U4_UYG3\U4_UYG6\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="U4_UYG3\U4_UYG6\Properties\Settings.settings" />
+    <None Include="U4_UYG3\U4_UYG6\U4_UYG6.csproj" />
+    <None Include="U4_UYG4\App.config" />
+    <None Include="U4_UYG4\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="U4_UYG4\obj\Debug\U4_UYG4.csproj.AssemblyReference.cache" />
+    <None Include="U4_UYG4\Properties\Settings.settings" />
+    <None Include="U4_UYG4\U4_UYG4.csproj" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
