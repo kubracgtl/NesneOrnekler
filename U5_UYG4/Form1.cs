@@ -16,5 +16,22 @@ namespace U5_UYG4
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            webBrowser2.Navigate(textBox1.Text);
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            webBrowser2.GoHome();
+
+        }
+
+        private void webBrowser2_DocumentCompleted(object sender, WebBrowserDocumentCompletedEventArgs e)
+        {
+            listBox1.Items.Add(webBrowser2.Url);
+        }
     }
 }
