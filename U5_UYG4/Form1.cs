@@ -33,5 +33,27 @@ namespace U5_UYG4
         {
             listBox1.Items.Add(webBrowser2.Url);
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            webBrowser2.GoBack();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            webBrowser2.GoForward();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            webBrowser2.Refresh();
+
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            listBox1.Items.Clear();
+
+        }
     }
 }
