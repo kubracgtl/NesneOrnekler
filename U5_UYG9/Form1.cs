@@ -54,7 +54,13 @@ namespace U5_UYG9
 
         private void toolStripMenuItem3_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            DialogResult cevap = MessageBox.Show("çıkmak istedigine eminmisiniz", "çıkış", MessageBoxButtons.YesNo, MessageBoxIcon.None);
+            if (cevap == DialogResult.Yes)
+            {
+
+
+                Application.Exit();
+            }
         }
     }
 }
