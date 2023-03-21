@@ -146,7 +146,7 @@ namespace U5_UYG8
             // 
             // richTextBox1
             // 
-            this.richTextBox1.Location = new System.Drawing.Point(-11, 51);
+            this.richTextBox1.Location = new System.Drawing.Point(0, 62);
             this.richTextBox1.Name = "richTextBox1";
             this.richTextBox1.Size = new System.Drawing.Size(811, 337);
             this.richTextBox1.TabIndex = 6;
