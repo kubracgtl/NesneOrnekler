@@ -51,7 +51,6 @@ namespace U5_UYG9
         {
             richTextBox1.Paste();
         }
-
         private void toolStripMenuItem3_Click(object sender, EventArgs e)
         {
             DialogResult cevap = MessageBox.Show("çıkmak istedigine eminmisiniz", "çıkış", MessageBoxButtons.YesNo, MessageBoxIcon.None);
@@ -60,6 +59,18 @@ namespace U5_UYG9
 
 
                 Application.Exit();
+            }
+        }
+
+        private void kAYDETToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            SaveFileDialog sfd = new SaveFileDialog();
+            sfd.Filter = "text dosyası|*.txt|tümdosyalar|*.*";
+            DialogResult cevap = sfd.ShowDialog();
+            if (cevap==DialogResult.OK)
+            {
+                richTextBox1.SaveFile(sfd.FileName, RichTextBoxStreamType.PlainText);
+
             }
         }
     }
