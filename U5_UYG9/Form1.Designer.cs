@@ -46,6 +46,11 @@ namespace U5_UYG9
             this.kOPYALAToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.yAPIŞTIRToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem3 = new System.Windows.Forms.ToolStripMenuItem();
+            this.yaziTipiToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.biçimToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.yazıTipiToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.yazıRengiToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.printDocument1 = new System.Drawing.Printing.PrintDocument();
             this.contextMenuStrip2.SuspendLayout();
             this.anamenü.SuspendLayout();
             this.SuspendLayout();
@@ -96,7 +101,8 @@ namespace U5_UYG9
             this.anamenü.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.toolStripMenuItem1,
             this.toolStripMenuItem2,
-            this.toolStripMenuItem3});
+            this.toolStripMenuItem3,
+            this.biçimToolStripMenuItem});
             this.anamenü.Location = new System.Drawing.Point(0, 0);
             this.anamenü.Name = "anamenü";
             this.anamenü.Size = new System.Drawing.Size(800, 24);
@@ -127,6 +133,7 @@ namespace U5_UYG9
             this.aÇToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.O)));
             this.aÇToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.aÇToolStripMenuItem.Text = "AÇ";
+            this.aÇToolStripMenuItem.Click += new System.EventHandler(this.aÇToolStripMenuItem_Click);
             // 
             // kAYDETToolStripMenuItem
             // 
@@ -142,6 +149,7 @@ namespace U5_UYG9
             this.yAZDIRToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.P)));
             this.yAZDIRToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.yAZDIRToolStripMenuItem.Text = "YAZDIR";
+            this.yAZDIRToolStripMenuItem.Click += new System.EventHandler(this.yAZDIRToolStripMenuItem_Click);
             // 
             // toolStripMenuItem2
             // 
@@ -179,10 +187,41 @@ namespace U5_UYG9
             // 
             // toolStripMenuItem3
             // 
+            this.toolStripMenuItem3.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.yaziTipiToolStripMenuItem});
             this.toolStripMenuItem3.Name = "toolStripMenuItem3";
             this.toolStripMenuItem3.Size = new System.Drawing.Size(46, 20);
             this.toolStripMenuItem3.Text = "ÇIKIŞ";
             this.toolStripMenuItem3.Click += new System.EventHandler(this.toolStripMenuItem3_Click);
+            // 
+            // yaziTipiToolStripMenuItem
+            // 
+            this.yaziTipiToolStripMenuItem.Name = "yaziTipiToolStripMenuItem";
+            this.yaziTipiToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.yaziTipiToolStripMenuItem.Text = "yazi tipi";
+            // 
+            // biçimToolStripMenuItem
+            // 
+            this.biçimToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.yazıTipiToolStripMenuItem,
+            this.yazıRengiToolStripMenuItem});
+            this.biçimToolStripMenuItem.Name = "biçimToolStripMenuItem";
+            this.biçimToolStripMenuItem.Size = new System.Drawing.Size(49, 20);
+            this.biçimToolStripMenuItem.Text = "biçim";
+            // 
+            // yazıTipiToolStripMenuItem
+            // 
+            this.yazıTipiToolStripMenuItem.Name = "yazıTipiToolStripMenuItem";
+            this.yazıTipiToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.yazıTipiToolStripMenuItem.Text = "yazı tipi";
+            this.yazıTipiToolStripMenuItem.Click += new System.EventHandler(this.yazıTipiToolStripMenuItem_Click);
+            // 
+            // yazıRengiToolStripMenuItem
+            // 
+            this.yazıRengiToolStripMenuItem.Name = "yazıRengiToolStripMenuItem";
+            this.yazıRengiToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.yazıRengiToolStripMenuItem.Text = "yazı rengi";
+            this.yazıRengiToolStripMenuItem.Click += new System.EventHandler(this.yazıRengiToolStripMenuItem_Click);
             // 
             // Form1
             // 
@@ -219,6 +258,11 @@ namespace U5_UYG9
         private System.Windows.Forms.ToolStripMenuItem kESToolStripMenuItem2;
         private System.Windows.Forms.ToolStripMenuItem kOPYALAToolStripMenuItem1;
         private System.Windows.Forms.ToolStripMenuItem yAPIŞTIRToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem yaziTipiToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem biçimToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem yazıTipiToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem yazıRengiToolStripMenuItem;
+        private System.Drawing.Printing.PrintDocument printDocument1;
     }
 }
 

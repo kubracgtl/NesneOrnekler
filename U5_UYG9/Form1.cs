@@ -67,11 +67,55 @@ namespace U5_UYG9
             SaveFileDialog sfd = new SaveFileDialog();
             sfd.Filter = "text dosyası|*.txt|tümdosyalar|*.*";
             DialogResult cevap = sfd.ShowDialog();
-            if (cevap==DialogResult.OK)
+            if (cevap == DialogResult.OK)
             {
                 richTextBox1.SaveFile(sfd.FileName, RichTextBoxStreamType.PlainText);
 
             }
         }
+
+        private void aÇToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog opn = new OpenFileDialog();
+            opn.Filter = "text dosyaları| *txt | Tüm Dosyalar |*.*";
+            DialogResult cevap = opn.ShowDialog();
+            if (cevap == DialogResult.OK)
+            {
+                richTextBox1.LoadFile(opn.FileName, RichTextBoxStreamType.PlainText);
+            }
+        }
+
+        private void yAZDIRToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            PrintDialog prn = new PrintDialog();
+            DialogResult cevap = prn.ShowDialog();
+            if (cevap == DialogResult.OK)
+            {
+                printDocument1.Print();
+
+
+            }
+        }
+
+        private void yazıTipiToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FontDialog fd = new FontDialog();
+            if (fd.ShowDialog() == DialogResult.OK)
+            {
+                richTextBox1.Font = fd.Font;
+            }
+        }
+
+        private void yazıRengiToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ColorDialog cd = new ColorDialog();
+            if (cd.ShowDialog()==DialogResult.OK)
+            {
+                richTextBox1.SelectionColor = cd.Color;
+            }
+        }
     }
 }
+
+    
+
