@@ -51,5 +51,10 @@ namespace U5_UYG9
         {
             richTextBox1.Paste();
         }
+
+        private void toolStripMenuItem3_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
