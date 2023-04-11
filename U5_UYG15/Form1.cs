@@ -22,15 +22,6 @@ namespace U5_UYG15
 
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            ToolTip tt = new ToolTip();
-            tt.SetToolTip(textBox1, "adınızı giriniz");
-            tt.SetToolTip(textBox2, "soyadınızı giriniz");
-            tt.SetToolTip(textBox3, "dogum tarihinizi giriniz");
-            tt.SetToolTip(textBox4, "adresinizi giriniz");
-
-            tt.SetToolTip(button1, "Kaydetmek için tıklayınız.");
-        }
+        private void                                        
     }
 }
