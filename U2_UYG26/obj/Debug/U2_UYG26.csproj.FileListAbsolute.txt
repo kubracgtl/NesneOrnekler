@@ -8,3 +8,7 @@ C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_UYG26\obj\Debug\U2_UYG26.csproj.Genera
 C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_UYG26\obj\Debug\U2_UYG26.csproj.CoreCompileInputs.cache
 C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_UYG26\obj\Debug\U2_UYG26.exe
 C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_UYG26\obj\Debug\U2_UYG26.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_UYG26\bin\Debug\U2_UYG26.exe.manifest
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_UYG26\bin\Debug\U2_UYG26.application
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_UYG26\obj\Debug\U2_UYG26.exe.manifest
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_UYG26\obj\Debug\U2_UYG26.application

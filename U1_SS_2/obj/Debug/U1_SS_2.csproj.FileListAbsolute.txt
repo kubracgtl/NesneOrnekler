@@ -1,0 +1,9 @@
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_SS_2\bin\Debug\SS2.exe.config
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_SS_2\bin\Debug\SS2.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_SS_2\bin\Debug\SS2.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_SS_2\obj\Debug\SS2.Form1.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_SS_2\obj\Debug\SS2.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_SS_2\obj\Debug\U1_SS_2.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_SS_2\obj\Debug\U1_SS_2.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_SS_2\obj\Debug\SS2.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_SS_2\obj\Debug\SS2.pdb

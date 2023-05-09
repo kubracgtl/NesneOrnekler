@@ -8,3 +8,13 @@ C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_GOLDSORU\obj\Debug\U2_GOLDSORU3.csproj
 C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_GOLDSORU\obj\Debug\U2_GOLDSORU3.csproj.CoreCompileInputs.cache
 C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_GOLDSORU\obj\Debug\U2_GOLDSORU.exe
 C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_GOLDSORU\obj\Debug\U2_GOLDSORU.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_GOLDSORU3\bin\Debug\U2_GOLDSORU.exe.config
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_GOLDSORU3\bin\Debug\U2_GOLDSORU.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_GOLDSORU3\bin\Debug\U2_GOLDSORU.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_GOLDSORU3\obj\Debug\U2_GOLDSORU3.csproj.AssemblyReference.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_GOLDSORU3\obj\Debug\U2_GOLDSORU.Form1.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_GOLDSORU3\obj\Debug\U2_GOLDSORU.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_GOLDSORU3\obj\Debug\U2_GOLDSORU3.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_GOLDSORU3\obj\Debug\U2_GOLDSORU3.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_GOLDSORU3\obj\Debug\U2_GOLDSORU.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_GOLDSORU3\obj\Debug\U2_GOLDSORU.pdb

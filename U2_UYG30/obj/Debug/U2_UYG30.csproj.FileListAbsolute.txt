@@ -1,0 +1,4 @@
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_UYG30\obj\Debug\U2_UYG30.Form1.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_UYG30\obj\Debug\U2_UYG30.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_UYG30\obj\Debug\U2_UYG30.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U2_UYG30\obj\Debug\U2_UYG30.csproj.CoreCompileInputs.cache

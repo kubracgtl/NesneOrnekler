@@ -1,0 +1,10 @@
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_Uyg12\bin\Debug\Uyg12.exe.config
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_Uyg12\bin\Debug\Uyg12.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_Uyg12\bin\Debug\Uyg12.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_Uyg12\obj\Debug\U1_Uyg12.csproj.AssemblyReference.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_Uyg12\obj\Debug\Uyg12.Form1.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_Uyg12\obj\Debug\Uyg12.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_Uyg12\obj\Debug\U1_Uyg12.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_Uyg12\obj\Debug\U1_Uyg12.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_Uyg12\obj\Debug\Uyg12.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_Uyg12\obj\Debug\Uyg12.pdb

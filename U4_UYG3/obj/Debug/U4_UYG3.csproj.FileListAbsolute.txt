@@ -1,0 +1,8 @@
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U4_UYG3\bin\Debug\U4_UYG3.exe.config
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U4_UYG3\bin\Debug\U4_UYG3.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U4_UYG3\bin\Debug\U4_UYG3.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U4_UYG3\obj\Debug\U4_UYG3.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U4_UYG3\obj\Debug\U4_UYG3.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U4_UYG3\obj\Debug\U4_UYG3.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U4_UYG3\obj\Debug\U4_UYG3.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U4_UYG3\obj\Debug\U4_UYG3.pdb

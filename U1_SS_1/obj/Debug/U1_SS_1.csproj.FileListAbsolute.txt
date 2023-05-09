@@ -1,0 +1,9 @@
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_SS_1\bin\Debug\SS1.exe.config
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_SS_1\bin\Debug\SS1.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_SS_1\bin\Debug\SS1.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_SS_1\obj\Debug\SS1.Form1.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_SS_1\obj\Debug\SS1.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_SS_1\obj\Debug\U1_SS_1.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_SS_1\obj\Debug\U1_SS_1.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_SS_1\obj\Debug\SS1.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_SS_1\obj\Debug\SS1.pdb

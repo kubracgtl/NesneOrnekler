@@ -1,0 +1,9 @@
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U5_UYG25\bin\Debug\U5_UYG25.exe.config
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U5_UYG25\bin\Debug\U5_UYG25.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U5_UYG25\bin\Debug\U5_UYG25.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U5_UYG25\obj\Debug\U5_UYG25.Form1.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U5_UYG25\obj\Debug\U5_UYG25.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U5_UYG25\obj\Debug\U5_UYG25.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U5_UYG25\obj\Debug\U5_UYG25.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U5_UYG25\obj\Debug\U5_UYG25.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U5_UYG25\obj\Debug\U5_UYG25.pdb

@@ -1,0 +1,4 @@
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U4_UYG13\obj\Debug\U4_UYG13.csproj.AssemblyReference.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U4_UYG13\obj\Debug\U4_UYG13.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U4_UYG13\obj\Debug\U4_UYG13.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U4_UYG13\obj\Debug\U4_UYG13.csproj.CoreCompileInputs.cache

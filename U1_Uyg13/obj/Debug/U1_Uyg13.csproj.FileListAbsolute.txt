@@ -1,0 +1,9 @@
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_Uyg13\bin\Debug\Uyg13.exe.config
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_Uyg13\bin\Debug\Uyg13.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_Uyg13\bin\Debug\Uyg13.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_Uyg13\obj\Debug\Uyg13.Form1.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_Uyg13\obj\Debug\Uyg13.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_Uyg13\obj\Debug\U1_Uyg13.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_Uyg13\obj\Debug\U1_Uyg13.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_Uyg13\obj\Debug\Uyg13.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_Uyg13\obj\Debug\Uyg13.pdb

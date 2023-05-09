@@ -1,0 +1,9 @@
+C:\Users\Ogrenci\Desktop\NesneOrnekler\u\bin\Debug\u.exe.config
+C:\Users\Ogrenci\Desktop\NesneOrnekler\u\bin\Debug\u.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\u\bin\Debug\u.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\u\obj\Debug\u.csproj.AssemblyReference.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\u\obj\Debug\u.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\u\obj\Debug\u.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\u\obj\Debug\u.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\u\obj\Debug\u.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\u\obj\Debug\u.pdb

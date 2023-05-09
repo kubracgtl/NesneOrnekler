@@ -1,0 +1,9 @@
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_SS_40\bin\Debug\SS40.exe.config
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_SS_40\bin\Debug\SS40.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_SS_40\bin\Debug\SS40.pdb
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_SS_40\obj\Debug\SS40.Form1.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_SS_40\obj\Debug\SS40.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_SS_40\obj\Debug\U1_SS_40.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_SS_40\obj\Debug\U1_SS_40.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_SS_40\obj\Debug\SS40.exe
+C:\Users\Ogrenci\Desktop\NesneOrnekler\U1_SS_40\obj\Debug\SS40.pdb
