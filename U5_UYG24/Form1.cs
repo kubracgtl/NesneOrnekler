@@ -45,5 +45,11 @@ namespace U5_UYG24
 
 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+
+        }
     }
 }
