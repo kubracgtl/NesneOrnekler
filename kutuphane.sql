@@ -85,6 +85,10 @@ CREATE TABLE IF NOT EXISTS `ogrenciler` (
 -- kutuphane.ogrenciler: ~0 rows (yaklaşık) tablosu için veriler indiriliyor
 DELETE FROM `ogrenciler`;
 /*!40000 ALTER TABLE `ogrenciler` DISABLE KEYS */;
+INSERT INTO `ogrenciler` (`ogrenci_no`, `ad`, `soyad`, `sinif`, `cinsiyet`, `telefon`) VALUES
+	(111, 'dsf', 'sdfs', 10, 'kız', '12324'),
+	(123, 'Serkan', 'Aydın', 12, 'erkek', '123123'),
+	(125, 'kübra', 'cgtl', 10, 'kız', '05453947787');
 /*!40000 ALTER TABLE `ogrenciler` ENABLE KEYS */;
 
 /*!40101 SET SQL_MODE=IFNULL(@OLD_SQL_MODE, '') */;
