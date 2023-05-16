@@ -41,5 +41,10 @@ namespace KutuphaneProjesi
             formOdunc odunc = new formOdunc();
             odunc.ShowDialog(); 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

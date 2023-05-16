@@ -10,10 +10,10 @@ namespace KutuphaneProjesi
 {
     class VeriTabaniİslemleri
     {
-        String baglanticümlesi = ConfigurationManager.ConnectionStrings["kutuphanebaglantıcümlesi"].ConnectionString;
+        string baglantiCumlesi = ConfigurationManager.ConnectionStrings["kutuphaneBaglantiCumlesi"].ConnectionString;
         public MySqlConnection baglan()
         {
-            MySqlConnection baglanti = new MySqlConnection(baglanticümlesi);
+            MySqlConnection baglanti = new MySqlConnection(baglantiCumlesi);
             MySqlConnection.ClearPool(baglanti);
 
             return baglanti;
