@@ -57,7 +57,7 @@ namespace KutuphaneProjesi
                 {
                     baglanti.Open();
                 }
-                kommut = new MySqlCommand();
+                kommut = new MySqlCommand( );
                 kommut.Connection = baglanti;
                 kommut.CommandText = "INSERT INTO kitapturleri(tur_adi)VALUES(@tur_adi)";
                 kommut.Parameters.AddWithValue("@tur_adi", txtturadi.Text);
