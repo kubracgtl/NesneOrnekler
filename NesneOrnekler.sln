@@ -237,6 +237,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unite6_VeriTabani", "Unite6
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KutuphaneProjesi", "KutuphaneProjesi\KutuphaneProjesi.csproj", "{B8561F20-73B6-4784-B31D-2944464953B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sınav2023_2donem_2yazılı", "sınav2023_2donem_2yazılı\sınav2023_2donem_2yazılı.csproj", "{D9A9E908-1C54-41B8-947F-38FAB4013272}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -687,6 +689,10 @@ Global
 		{B8561F20-73B6-4784-B31D-2944464953B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8561F20-73B6-4784-B31D-2944464953B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8561F20-73B6-4784-B31D-2944464953B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9A9E908-1C54-41B8-947F-38FAB4013272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A9E908-1C54-41B8-947F-38FAB4013272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A9E908-1C54-41B8-947F-38FAB4013272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A9E908-1C54-41B8-947F-38FAB4013272}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -803,6 +809,7 @@ Global
 		{5EC83EA9-B78F-487C-9813-E06EDD5DB8BE} = {E377F083-1184-4F20-93E1-2D24F76C63D6}
 		{E7E554FD-71A1-4B8E-B4FD-7D8D70D6B040} = {E377F083-1184-4F20-93E1-2D24F76C63D6}
 		{B8561F20-73B6-4784-B31D-2944464953B2} = {3CDCFBF0-0C9B-44A9-859C-8C60AB68590F}
+		{D9A9E908-1C54-41B8-947F-38FAB4013272} = {3CDCFBF0-0C9B-44A9-859C-8C60AB68590F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7EDBA141-81CB-48A6-9F95-8B5DED1FC991}
